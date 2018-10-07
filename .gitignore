@@ -1,5 +1,5 @@
 # SDL Library Files
-SnakeClassic/SDL/
+/SDL
 
 # Prerequisites
 *.d
